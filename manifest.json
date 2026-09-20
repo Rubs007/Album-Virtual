@@ -1,0 +1,17 @@
+{
+    "name": "Album Player",
+    "short_name": "Album",
+    "description": "Reproductor premium de un álbum",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#080808",
+    "theme_color": "#080808",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "portada.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ]
+}
